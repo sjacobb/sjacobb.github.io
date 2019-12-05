@@ -59,15 +59,6 @@ h1 {
     text-decoration: underline;
 }
 
-.contain {
-    background-color: #2B2A25;
-    height: 90vh;
-    display: flex;
-    flex-direction: row;
-    border: 1px solid #2B2A25;
-}
-
-
 .button {
     background-color: #2B2A25;
     border: 1px solid #2B2A25;
@@ -95,26 +86,6 @@ h1 {
     color:white;
 }
 
-.form {
-    color: white;
-    font-family: 'Nunito Sans', sans-serif;
-    padding: 20px;
-    
-}
-
-.form div {
-    margin: auto;
-}
-
-.btn-primary {
-    border: 5px solid black;
-    margin: auto;
-}
-
-.text-md-left {
-    color: black;
-}
-
 .btn:hover {
     opacity: 40%;
     background-color:#2B2A25;
@@ -128,6 +99,9 @@ h1 {
     color:white;
 }
 
+.phone {
+    color: white;
+}
 
 
 @media only screen and (max-width: 1220px) {
